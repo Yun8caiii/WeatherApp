@@ -18,7 +18,6 @@ const App = () => {
     )
   }
 
-
     return (
       <View style={styles.container}>
         <ActivityIndicator size={'large'} color={'blue'} />
